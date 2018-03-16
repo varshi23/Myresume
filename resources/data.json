@@ -1,0 +1,23 @@
+{
+  "basics":{
+    "objective":"all are true"
+  },
+  "education":[
+  {
+
+    "degree":"B.Tech(computer science of engineering)",
+    "college":"KLM engineering college for women",
+    "data":["2014-18","63%"]
+},
+  {
+    "degree":"Inter",
+    "college":"narayana junior college",
+    "data":["2012-14","87%"]
+  },
+  {
+    "degree":"ssc",
+    "college":"keshava reddy",
+    "data":["2010-12","92%"]
+  }
+]
+}
